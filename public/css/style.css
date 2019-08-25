@@ -1,0 +1,11 @@
+h {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.jumbotron {
+    background-image: url("../images/newspaper.jpg")
+}
+
+.savedJumbo {
+    background-image: url("../images/arrow.jpg")
+}
